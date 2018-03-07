@@ -2,8 +2,6 @@
 
 This is my repo for the [JavaScript30 course](https://javascript30.com/ "Wes Bos' JavaScript30 course") created by Wes Bos.
 
----
-
 ## Checklist of things I will be creating or doing
 
 * [ ] 1. JS Drum Kit
@@ -36,8 +34,6 @@ This is my repo for the [JavaScript30 course](https://javascript30.com/ "Wes Bos
 * [ ] 28. Video Speed Controller
 * [ ] 29. Countdown Timer
 * [ ] 30. Whack A Mole
-
----
 
 ## Goals
 
