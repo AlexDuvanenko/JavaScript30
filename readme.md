@@ -4,7 +4,7 @@ This is my repo for the [JavaScript30 course](https://javascript30.com/ "Wes Bos
 
 ## Checklist of things I will be creating or doing
 
-* [ ] 1. JS Drum Kit
+* [x] 1. JS Drum Kit
 * [ ] 2. JS and CSS Clock
 * [ ] 3. CSS Variables
 * [ ] 4. Array Cardio Day 1
