@@ -8,7 +8,7 @@ This is my repo for the [JavaScript30 course](https://javascript30.com/ "Wes Bos
 * [x] 2. JS and CSS Clock
 * [x] 3. CSS Variables
 * [x] 4. Array Cardio Day 1
-* [ ] 5. Flex Panel Gallery
+* [x] 5. Flex Panel Gallery
 * [ ] 6. Type Ahead
 * [ ] 7. Array Cardio Day 2
 * [ ] 8. Fun with HTML5 Canvas
