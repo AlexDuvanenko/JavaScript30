@@ -6,7 +6,7 @@ This is my repo for the [JavaScript30 course](https://javascript30.com/ "Wes Bos
 
 * [x] 1. JS Drum Kit
 * [x] 2. JS and CSS Clock
-* [ ] 3. CSS Variables
+* [x] 3. CSS Variables
 * [ ] 4. Array Cardio Day 1
 * [ ] 5. Flex Panel Gallery
 * [ ] 6. Type Ahead
