@@ -11,7 +11,7 @@ This is my repo for the [JavaScript30 course](https://javascript30.com/ "Wes Bos
 * [x] 5. Flex Panel Gallery
 * [x] 6. Type Ahead
 * [x] 7. Array Cardio Day 2
-* [ ] 8. Fun with HTML5 Canvas
+* [x] 8. Fun with HTML5 Canvas
 * [ ] 9. Dev Tools Domination
 * [ ] 10. Hold Shift and Check Checkboxes
 * [ ] 11. Custom Video Player
