@@ -14,7 +14,7 @@ This is my repo for the [JavaScript30 course](https://javascript30.com/ "Wes Bos
 * [x] 8. Fun with HTML5 Canvas
 * [x] 9. Dev Tools Domination
 * [x] 10. Hold Shift and Check Checkboxes
-* [ ] 11. Custom Video Player
+* [x] 11. Custom Video Player
 * [ ] 12. Key Sequence Detector
 * [ ] 13. Slide in on Scroll
 * [ ] 14. JS References VS Copying
