@@ -18,7 +18,7 @@ This is my repo for the [JavaScript30 course](https://javascript30.com/ "Wes Bos
 * [x] 12. Key Sequence Detector
 * [x] 13. Slide in on Scroll
 * [x] 14. JS References VS Copying
-* [ ] 15. LocalStorage
+* [x] 15. LocalStorage and Event Delegation
 * [ ] 16. Mouse Move Shadow
 * [ ] 17. Sort Without Articles
 * [ ] 18. Adding Up Times with Reduce
