@@ -23,7 +23,7 @@ This is my repo for the [JavaScript30 course](https://javascript30.com/ "Wes Bos
 * [x] 17. Sort Without Articles
 * [x] 18. Adding Up Times with Reduce
 * [ ] 19. Webcam Fun
-* [ ] 20. Speech Detection
+* [x] 20. Speech Detection
 * [ ] 21. Geolocation
 * [ ] 22. Follow Along Link Highlighter
 * [ ] 23. Speech Synthesis
