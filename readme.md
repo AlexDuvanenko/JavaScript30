@@ -17,7 +17,7 @@ This is my repo for the [JavaScript30 course](https://javascript30.com/ "Wes Bos
 * [x] 11. Custom Video Player
 * [x] 12. Key Sequence Detector
 * [x] 13. Slide in on Scroll
-* [ ] 14. JS References VS Copying
+* [x] 14. JS References VS Copying
 * [ ] 15. LocalStorage
 * [ ] 16. Mouse Move Shadow
 * [ ] 17. Sort Without Articles
