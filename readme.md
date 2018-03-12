@@ -24,7 +24,7 @@ This is my repo for the [JavaScript30 course](https://javascript30.com/ "Wes Bos
 * [x] 18. Adding Up Times with Reduce
 * [ ] 19. Webcam Fun
 * [x] 20. Speech Detection
-* [ ] 21. Geolocation
+* [x] 21. Geolocation
 * [ ] 22. Follow Along Link Highlighter
 * [ ] 23. Speech Synthesis
 * [ ] 24. Sticky Nav
