@@ -21,7 +21,7 @@ This is my repo for the [JavaScript30 course](https://javascript30.com/ "Wes Bos
 * [x] 15. LocalStorage and Event Delegation
 * [x] 16. Mouse Move Shadow
 * [x] 17. Sort Without Articles
-* [ ] 18. Adding Up Times with Reduce
+* [x] 18. Adding Up Times with Reduce
 * [ ] 19. Webcam Fun
 * [ ] 20. Speech Detection
 * [ ] 21. Geolocation
