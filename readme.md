@@ -26,7 +26,7 @@ This is my repo for the [JavaScript30 course](https://javascript30.com/ "Wes Bos
 * [x] 20. Speech Detection
 * [x] 21. Geolocation
 * [x] 22. Follow Along Link Highlighter
-* [ ] 23. Speech Synthesis
+* [x] 23. Speech Synthesis
 * [ ] 24. Sticky Nav
 * [ ] 25. Event Capture, Propagation, Bubbling and Once
 * [ ] 26. Stripe Follow Along Nav
