@@ -28,7 +28,7 @@ This is my repo for the [JavaScript30 course](https://javascript30.com/ "Wes Bos
 * [x] 22. Follow Along Link Highlighter
 * [x] 23. Speech Synthesis
 * [x] 24. Sticky Nav
-* [ ] 25. Event Capture, Propagation, Bubbling and Once
+* [x] 25. Event Capture, Propagation, Bubbling and Once
 * [ ] 26. Stripe Follow Along Nav
 * [ ] 27. Click and Drag
 * [ ] 28. Video Speed Controller
