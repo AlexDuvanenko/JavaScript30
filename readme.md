@@ -29,7 +29,7 @@ This is my repo for the [JavaScript30 course](https://javascript30.com/ "Wes Bos
 * [x] 23. Speech Synthesis
 * [x] 24. Sticky Nav
 * [x] 25. Event Capture, Propagation, Bubbling and Once
-* [ ] 26. Stripe Follow Along Nav
+* [x] 26. Stripe Follow Along Nav
 * [ ] 27. Click and Drag
 * [ ] 28. Video Speed Controller
 * [ ] 29. Countdown Timer
